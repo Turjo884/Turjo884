@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋, This is Turjo 👋  
+### Hi there, This is Turjo 👋  
 #### Web Developer  
 Life Depends on: PROGRAMMING || READING || TRAVELLING || WATCHING MOVIES/SERIES  
 
