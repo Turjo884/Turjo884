@@ -1,4 +1,4 @@
-## Hi there, This is Turjo 👋
+## Hi There, This is Turjo 👋
 
 
 **Turjo884/Turjo884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
